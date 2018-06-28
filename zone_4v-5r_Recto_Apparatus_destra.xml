@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+            type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Documenti d'Amore</title>
+            <respStmt>
+               <resp>Responsabile della codifica</resp>
+               <persName>
+                  <forename>Cristiano</forename>
+                  <surname>Lorenzi</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt><p></p></publicationStmt>
+         <sourceDesc><p></p></sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+   <facsimile>
+      <surface>
+         <graphic url="http://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0018_fa_0004v-5r.jp2/full/full/0/default.jpg"/>
+         <zone points="772,43 771,107 886,108 889,556 772,558 769,681 1004,677 998,42" xml:id="zone_4v-5r_Recto_Apparatus_destra"/>
+      </surface>
+   </facsimile>
+
+   <text>
+      <body>
+         <div type="Apparatus_destra">
+            <pb ed="MSS_Barb_lat_4076" facs="#zone_4v-5r_Recto_Apparatus_destra" xml:id="pb_4v-5r_Recto_Apparatus_destra" />
+            <pb ed="Egidi" n="46" xml:id="Egidi_app_dx_46"/>
+            <ab>H et serviendi deo et proximis hec sunt angelorum bonorum opera. et inspirationes divine. Et ab hiis non expedit caveamus. sed impleamus ea. <label type="marginalia">tertium doc... quod tibi vis etc</label> Tolle istud etiam generale. ut quod tibi non vis fieri alij ne facias dicit enim dominus in evangelio omnia quecumque vultis ut faciant vobis homines et vos facite illis hec est enim lex et <pb ed="Egidi" n="47" xml:id="Egidi_app_dx_47"/> prophete ut in principio decretorum . dicit etiam lex quod quisque iure in alterum statuit ipse eodem iure utatur. digestis quod quisque iure lege prima et .l<hi rend="subscribed">a</hi>. distinctione ponderet. Et sapientis auctoritas patere legem quam tu ipse tuleris. Et dicit Augustinus .viiij<hi rend="subscribed">a</hi>. distinctione in quorumlibet talis sicut in scriptis aliorum quales volo esse intellectores meorum. Et illud quod tibi vis fieri michi fac quod non tibi noli sic potes in terris vivere iure poli. unde omnia summe comprehendit lex in preceptis suis honeste vivere alterum non ledere ius suum unicuique tribuere. digestis de iustitia et iure lege. iustitia et instituta eodem titulo .§.	Iuris precepta . Sed cum per lege nemo bene facere compellatur sed male facere prohibeatur ut dicit canon .xxiij. questione .v<hi rend="subscribed">a</hi>. ad fidem dicas quod licet subtiliter intuendo possit sub istis preceptis intelligi quod etiam bonum facere iniunctum est tamen clarius est dicendum quod non sufficit abstinere amalo nisi facias quod bonum est. et sic caute dictum est supra, quod mandat ecclesia. sub <note><hi rend="italics">Dopo</hi>sub<hi rend="italics">segue nel ms.</hi>l<hi rend="italics">espunto</hi></note> quo legem etiam divinam intelligas ut humanam constitutionem vel decretum. Habitis hiis generalibus documentis ad instructionem minorum docilitas te docebit <note><hi rend="italics">Prima di</hi>docebit<hi rend="italics">fu scritto</hi>cavebit<hi rend="italics">e poi espunto</hi></note> cavere per species <note><hi rend="italics">Dopo</hi>species<hi rend="italics">c'è un</hi>p<hi rend="italics">espunto</hi></note> <pb ed="Egidi" n="48" xml:id="Egidi_app_dx_48"/>vitiorum ab eis. Redeamus ad licteram. <label type="marginalia">de malorum conv[ersatione]</label> <hi rend="italics">malorum consortium</hi> Audi apostolum dicentem cum bono bonus eris et cum perverso perverteris sed quidam juvenes hoc male intellexerunt crediderunt enim esse mandatum ut cum malis deberemus esse mali quod falsum est sed intelligit quod efficiemur similes illis cum quibus fuerimus conversati. Seneca quoque nos admonet super hoc hiis verbis cum illis conversare que te meliorem facturi sunt. illos etiam admicte quos meliores facere potes. vide quod semel operata est bonorum conversatio <label type="marginalia">novum</label> ¶ Nigropus normandus ex iniuria quadam verborum levissima, solus in viam cum honustio greco, motus et impulsus iracundie calore, occidit onustium ¶ et incedens ultra per plures leucas insonante de hoc rumore ipse ac alij omnes concurrentes per viam capti sunt a preside de illius provincie ¶ breviter quia nigropus conversatus est semper cum bonis relaxatus est et contra alios inquisitum ¶ et cum demum reperiretur veritas contra eum non potuit inveniri tantum iam distabat ¶ et sic remansit impunitum hoc facinus quoad mundum ¶ quid ergo dicemus de omnino insontibus quorum nocentem sic conversatio bona iuvaverit. ¶ Trahat hinc etiam qui iudicare habet ut non sit facilis propter faciem humilem seu famam, que quandoque ficta est alicuius custodiam laxare. quia etiam sepe boni constantes cadunt. nec etiam exasperet se nimium contra illos qui prima facie videntur signa culpe deferre. sed delibera et expecta. Non tamen potest redeo supra tolli quin bonorum conversatio multum prosit. immo cum de cuiusquam fama agitur iura docent cum quibus est conversatus inquiri. unde famam in scolis maxime acquisitam dicit decretalis innotuit, et notitiam in militia dicunt leges digestis de castrensi peculio miles et leges si forte prerogativas conferre. occurrit igitur ut simi<pb ed="Egidi" n="49" xml:id="Egidi_app_dx_49"/>les illis efficiamur cum quibus fuerimus conversati. Quis namque poterit adherere <note><hi rend="italics">Il ms.</hi>adhere</note> igni et non calefieri et in vitiosorum continuo actus eff[re]nes inspicere ac voluptatibus frenum dare. Caveas ne te lactent huiusmodi pervitiose viventes de hoc vide regulam .lviij<hi rend="subscribed">a</hi>. et que ibi notantur infra in <note>in<hi rend="italics">nel ms. è ripetuto: ma la prima volta fu cancellato</hi></note> parte .ij<hi rend="subscribed">a</hi>. documento .v<hi rend="subscribed">o</hi>. <hi rend="italiscs">otiositas</hi> multam malitiam docuit otiositas ut in ecclesiastico .xxxiij<hi rend="subscribed">o</hi>. capitulo et ipsa et voluptas arma sunt hostis antiqui ad miseras animas captivandas ut extra de renunciatione. capitulo. nisi. Et queritur egistus quare sit factus adulter causa est in promptu desidiosus erat. Et ovidius quam placari limo quam gaudet populus umbra tam venus et iam amat et otia si tollas periere cupidinis arcus. quam obrem Ieronimus inquid ad monachum nunquam de manu tua exeat psalterium semper aliquid facito ut diabolus te inveniat occupatum de consecratione distintione .v<hi rend="subscribed">a</hi>. nunquam. Et dixit ysidorus otiositatem filiam accidie inter alias esse ut habes infra in parte .vj<hi rend="subscribed">a</hi>. documento .vij<hi rend="subscribed">o</hi>. gobula .ij<hi rend="subscribed">a</hi>. super hoc audi quod dixit docilitas istam litteram explicando ¶ Si ab agricola vomerus absconditur, inutili consummetur rubigine ¶ si aratro infigitur proderit et splendebit tamen etiam consummetur ¶ candela nisi fuerit accensa nil habere luminis iudicatur ¶ accensa servit aliis se consummens ¶ si te otio dederis et inertie mancipaveris rubigine peribis luxurie ¶ Si autem te alicui honesto applicaveris studio. Aliis proficies gloria splendebis corpore attamen consummeris ¶ et sic quicquid agis vero corpori ¶ ex hiis ergo negotiari vel otiari quid <pb ed="Egidi" n="50" xml:id="Egidi_app_dx_50"/> dignius est eli ....... non consumptio sequitur sed rubiginosa ........ gloriosa ¶ Sapiens est omni tempore qui d .. </ab>
+           
+         </div>
+      </body>
+   </text>
+</TEI>
